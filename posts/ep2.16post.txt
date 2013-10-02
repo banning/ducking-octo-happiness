@@ -1,0 +1,4 @@
+ <p>17 Oct 2007</p>
+      <p>It turns out Ozzy has a lot more <a href="http://upload.wikimedia.org/wikipedia/commons/1/16/Ozzy_Osboune.jpg">tattoos</a> 
+        on his arm. Oh well. We won't be seeing him again. I also fixed the perspective 
+        on the bird cage.</p>

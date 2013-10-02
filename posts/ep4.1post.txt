@@ -1,0 +1,27 @@
+<p>04 Feb 2008</p>
+      <p>Due to massive fan protest at the death of nearly all the cast, the story 
+        will be restarting immediately after the <a href="episode.php?epsiode=2&part=0">Baseball 
+        Episode</a>, three years prior to the Camping Episode.</p>
+      <p>I am extremely happy with how the first frame of this strip came out. 
+        I plan on varying the camera angle more and this experiment took little 
+        time to draw and works exactly how I wanted it to. After all those attempts 
+        at drawing the characters from behind in the previous episode, I finally 
+        broke out of the habit of side views. Then in frame two I fall back into 
+        it.</p>
+      <p>In other news, the site is finally running on version 2.0, which took 
+        longer than the <a href="episode.php?epsiode=3&part=16">&quot;less than a month&quot;</a> 
+        I originally promised. The major change is the site is now being controlled 
+        by templates and an expanded cascading style sheet, so when I add a new 
+        part to an episode, I just have to update one page to change the links 
+        on every part of that chapter as opposed to the blunt idiocy I was previously 
+        using to update all those pages. I'm also testing the waters with advertising 
+        with a banner for my hosting service at the bottom. Expect Google ads 
+        soon, and please don't be scared away by them. Money helps make the comic 
+        better. All pages will soon have unique tags too to increase the number 
+        of spiders crawling the pages (which currently account for half my audience.)</p>
+      <p>But these are stupid structural changes, John, you might say. Well there 
+        have also been updates to page art as well as better descriptions on the 
+        <a href="about.html">about</a> and <a href="episodes/ep_archive.html">episode 
+        archive</a> pages. So not only can the site be updated a lot more quickly, 
+        it also has a better presentation. But all that really matters is that 
+        I keep these strips coming on time.</p>

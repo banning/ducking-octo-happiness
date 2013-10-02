@@ -1,0 +1,6 @@
+Episode_Number;Number_of_Parts;Title
+I;25;Getting the Apartment
+II;19;Baseball
+III;30;Camping
+IV;20;Coffee Shop 
+V;4;Crop Circles

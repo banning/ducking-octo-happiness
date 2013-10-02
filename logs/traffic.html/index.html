@@ -1,0 +1,149 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>traffic.html</title>
+<style type="text/css">
+<!--
+  em,h1,h2,h3,h4,h5,h6,form,input,br,hr,p,td,th,li,ul {
+  font-family:Verdana,Arial,Helvetica,sans-serif; }
+
+  td {color:#000000; background-color:#cccccc;}
+
+  th {color:#000000; background-color:#999999;}
+-->
+</style>
+</head>
+
+<body bgcolor="#FFFFFF">
+
+
+
+<!-- HEADER -->
+<h1>Traffic analysis for HTTP, FTP/SFTP, e-mail and WebDAV</h1>
+<p>
+The following analysis shows your monthly data transfer volumes for
+the current year, divided up into HTTP, FTP, e-mail and WebDAV.
+A summary is shown in the first two columns.
+</p>
+
+<p>
+HTTP, WebDAV and FTP/SFTP traffic is based on the access.log.&lt;week&gt;.&lt;weekday&gt;,
+dav.log.&lt;week&gt;.&lt;weekday&gt;, ftp.xferlog and sftp.log files
+respectively, located in your '/logs' directory (separate FTP transfer logs
+apply to packages with a non-shared IP address only).
+</p>
+
+<p>
+The column labeled "quantity" of the category mail indicates the number
+of e-mails that originated from scripts running on your virtual host.
+This does not include e-mails sent via mailing lists.
+</p>
+
+<p>
+The number of megabytes in each category indicates how many megabytes
+were actually consumed by the specified number of requests.
+</p>
+
+
+<table border="0" cellspacing="2" cellpadding="3">
+<thead>
+<tr>
+<th></th>
+<th colspan="2">Total</th>
+<th colspan="2">HTTP</th>
+<th colspan="2">FTP/SFTP</th>
+<th colspan="2">Mail</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th>Month</th>
+<th>Megabytes</th><th>Requests</th>
+<th>Megabytes</th><th>Requests</th>
+<th>Megabytes</th><th>Requests</th>
+<th>Megabytes</th><th>Quantity</th>
+</tr>
+<tr><th><a href="03.html">2008-03</a></th>
+<td align="right">286.8</td><td align="right" style="border-left:0px;">13,922</td> <td align="right">270.6</td><td align="right" style="border-left:0px;">13,178</td>
+<td align="right">16.2</td><td align="right" style="border-left:0px;">744</td>
+<td align="right">0.0</td><td align="right" style="border-left:0px;">0</td>
+</tr>
+<!-- 2008-03 286.784 13922 270.606 13178 16.178 744 0.000 0 -->
+<tr><th><a href="02.html">2008-02</a></th>
+<td align="right">177.3</td><td align="right" style="border-left:0px;">6,782</td> <td align="right">159.0</td><td align="right" style="border-left:0px;">6,183</td>
+<td align="right">18.3</td><td align="right" style="border-left:0px;">599</td>
+<td align="right">0.0</td><td align="right" style="border-left:0px;">0</td>
+</tr>
+<!-- 2008-02 177.252 6782 158.980 6183 18.272 599 0.000 0 -->
+<tr><th><a href="01.html">2008-01</a></th>
+<td align="right">108.6</td><td align="right" style="border-left:0px;">4,545</td> <td align="right">101.8</td><td align="right" style="border-left:0px;">4,339</td>
+<td align="right">6.8</td><td align="right" style="border-left:0px;">206</td>
+<td align="right">0.0</td><td align="right" style="border-left:0px;">0</td>
+</tr>
+<!-- 2008-01 108.603 4545 101.764 4339 6.839 206 0.000 0 -->
+<tr><th><a href="12.html">2007-12</a></th>
+<td align="right">248.0</td><td align="right" style="border-left:0px;">6,150</td> <td align="right">237.7</td><td align="right" style="border-left:0px;">5,840</td>
+<td align="right">10.3</td><td align="right" style="border-left:0px;">310</td>
+<td align="right">0.0</td><td align="right" style="border-left:0px;">0</td>
+</tr>
+<!-- 2007-12 248.001 6150 237.695 5840 10.306 310 0.000 0 -->
+<tr><th><a href="11.html">2007-11</a></th>
+<td align="right">69.9</td><td align="right" style="border-left:0px;">2,290</td> <td align="right">64.8</td><td align="right" style="border-left:0px;">2,193</td>
+<td align="right">5.0</td><td align="right" style="border-left:0px;">97</td>
+<td align="right">0.0</td><td align="right" style="border-left:0px;">0</td>
+</tr>
+<!-- 2007-11 69.895 2290 64.848 2193 5.047 97 0.000 0 -->
+<tr><th><a href="10.html">2007-10</a></th>
+<td align="right">202.3</td><td align="right" style="border-left:0px;">5,369</td> <td align="right">197.3</td><td align="right" style="border-left:0px;">5,152</td>
+<td align="right">5.1</td><td align="right" style="border-left:0px;">217</td>
+<td align="right">0.0</td><td align="right" style="border-left:0px;">0</td>
+</tr>
+<!-- 2007-10 202.316 5369 197.252 5152 5.064 217 0.000 0 -->
+<tr><th><a href="09.html">2007-09</a></th>
+<td align="right">77.3</td><td align="right" style="border-left:0px;">2,563</td> <td align="right">68.3</td><td align="right" style="border-left:0px;">2,285</td>
+<td align="right">9.0</td><td align="right" style="border-left:0px;">278</td>
+<td align="right">0.0</td><td align="right" style="border-left:0px;">0</td>
+</tr>
+<!-- 2007-09 77.295 2563 68.301 2285 8.994 278 0.000 0 -->
+<tr><th><a href="08.html">2007-08</a></th>
+<td align="right">0.2</td><td align="right" style="border-left:0px;">71</td> <td align="right">0.2</td><td align="right" style="border-left:0px;">71</td>
+<td align="right">0.0</td><td align="right" style="border-left:0px;">0</td>
+<td align="right">0.0</td><td align="right" style="border-left:0px;">0</td>
+</tr>
+<!-- 2007-08 0.187 71 0.187 71 0.000 0 0.000 0 -->
+<tr><th><a href="07.html">2007-07</a></th>
+<td align="right">0.2</td><td align="right" style="border-left:0px;">60</td> <td align="right">0.2</td><td align="right" style="border-left:0px;">60</td>
+<td align="right">0.0</td><td align="right" style="border-left:0px;">0</td>
+<td align="right">0.0</td><td align="right" style="border-left:0px;">0</td>
+</tr>
+<!-- 2007-07 0.160 60 0.160 60 0.000 0 0.000 0 -->
+<tr><th><a href="06.html">2007-06</a></th>
+<td align="right">0.1</td><td align="right" style="border-left:0px;">37</td> <td align="right">0.1</td><td align="right" style="border-left:0px;">37</td>
+<td align="right">0.0</td><td align="right" style="border-left:0px;">0</td>
+<td align="right">0.0</td><td align="right" style="border-left:0px;">0</td>
+</tr>
+<!-- 2007-06 0.118 37 0.118 37 0.000 0 0.000 0 -->
+<tr><th><a href="05.html">2007-05</a></th>
+<td align="right">0.2</td><td align="right" style="border-left:0px;">46</td> <td align="right">0.2</td><td align="right" style="border-left:0px;">46</td>
+<td align="right">0.0</td><td align="right" style="border-left:0px;">0</td>
+<td align="right">0.0</td><td align="right" style="border-left:0px;">0</td>
+</tr>
+<!-- 2007-05 0.153 46 0.153 46 0.000 0 0.000 0 -->
+</tbody>
+</table>
+
+<!-- FOOTER -->
+<pre>
+1 kB = 1000 Bytes
+1 MB = 1000 kB
+1 GB = 1000 MB
+</pre>
+
+
+<!-- 2008-03-30 00:22 EDT -->
+
+</body>
+</html>
+

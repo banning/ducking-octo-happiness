@@ -1,0 +1,10 @@
+ <p>03 Dec 2007</p>
+      <p>With a new month comes an update to the site. The major change is that 
+        the rants are now on a separate page, accessible by the link seen below. 
+        This allows more space for the writings, a better appearance to the pages, 
+        easier access for those who want to read the rants, and no rants for those 
+        who only want to see the comic. The <a href="../../grimoire.html">Grimoire</a> 
+        and <a href="../../pond.html">Walden Pond</a> interface have been updated 
+        as well, along with alt tags that had been previously forgotten. So enjoy 
+        as we continue to improve things around here. (Also, if you find any broken 
+        links or other erros, please notify us.)</p>

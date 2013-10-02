@@ -1,0 +1,3 @@
+10 Mar 2008<br><br>
+
+The site archives are running on php finally, but there's a slight problem with the rant image appearing on every page even when that strip doesn't have a corresponding nonsensical ramble. Oh well, no one reads them anyway.

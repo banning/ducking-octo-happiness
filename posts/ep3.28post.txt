@@ -1,0 +1,5 @@
+ <p>28 Jan 2008</p>
+      <p>28 on the 28th. I'm very happy with the imagery in this one. The meaning 
+        of life expressed so succinctly.</p>
+      <p>So for some reason Dreamweaver decided to start portraying the reds in 
+        image files as blue, but they still appear correctly in browsers. Oh well.</p>

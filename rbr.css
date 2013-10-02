@@ -1,0 +1,30 @@
+body {
+  background-color: #333333;
+  }
+
+table {
+	border-color: #000000; 
+ 	background-color: #000000;
+	}
+
+A:link {
+	color: #ff0000
+}
+A:visited {
+	color: #ff0000
+}
+
+
+
+td {
+	font-family: Verdana, Geneva, Arial, helvetica, sans-serif;
+	 font-size: 10pt;
+  color: #ffffff;
+}
+
+th {
+	font-family: Verdana, Geneva, Arial, helvetica, sans-serif;
+	font-size: 10pt;
+	color: #FF0000;
+	font-weight: 400
+}
